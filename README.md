@@ -1,3 +1,4 @@
+# Como trabalhar com Git offline.md
 Esse material faz parte dos meus estudos em tecnologia e desenvolvimento. 
 Para alguns pode ser algo simples, mas para outros possa ser que seja útil.
 
