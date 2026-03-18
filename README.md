@@ -9,10 +9,10 @@ Isso permite que você pare de ficar duplicando o mesmo arquivo de código para 
 
 Vá no google ou no seu buscador do browser e pesquise por Git Download. 
 
->Vou evitar links por aqui.
+[https://git-scm.com/install/](https://git-scm.com/install/)
 
 Site do Git, escolha seu sistema operacional, baixe e instale conforme as instruções.
-![[Pasted image 20260317151356.png]]
+
 
 #### Vamos precisar de alguns comandos no terminal
 
